@@ -23,7 +23,7 @@ $ chsh -l
 /bin/zsh
 /bin/rc
 /bin/ksh
-/bin/oksh
+/bin/loksh
 /bin/yash
 ```
 
@@ -38,7 +38,9 @@ shells.
 - heirloom-sh
 - ksh
 - mksh
-- oksh
+- oksh (no longer provided by Void Linux, and will be fully removed from the
+repos on 2019/04/01)
+- loksh
 - posh
 - rc
 - tcsh
